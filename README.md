@@ -13,6 +13,8 @@ Bootstrap-php-MySQL
 这个是本地测试代码
 
 直接克隆到本地
+建立个books数据库
+把book_insert.sql 数据表引入
 
 
 在线演示：http://meltykiss.applinzi.com/
